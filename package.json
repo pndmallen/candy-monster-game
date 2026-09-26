@@ -1,0 +1,19 @@
+{
+  "name": "candy-monster-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Candy Monster Game — a 3D family adventure around the world to find the Candy Monster's clues.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "@fontsource/fredoka": "^5.3.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "vite": "^6.4.3"
+  }
+}
